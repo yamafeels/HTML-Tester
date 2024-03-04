@@ -1,0 +1,46 @@
+body {
+    background-color: #00BFFF;
+  }
+  body * {
+    font-family: cursive;
+    font-size: 16px;
+  }
+  
+  /* Customize the header section of the page */
+  header {
+    background-color: #4169E1;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Customize the navigation menu */
+  nav {
+    background-color: #555;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px;
+  }
+  
+  nav a:hover {
+    background-color: #777;
+  }
+  
+  /* Customize the main content area of the page */
+  main {
+    padding: 20px;
+  }
+  
+  /* Customize the footer section of the page */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+  }
